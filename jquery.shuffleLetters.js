@@ -14,7 +14,7 @@
       "step"			: 8,  // How many times should the letters be changed
       "fps"				: 25, // Frames Per Second
       "text"			: "", // Use this text instead of the contents
-      "pool"			: [], // Random character pool override
+      "pool"			: "", // Random character pool override
       "callback"	: function(){}	// Run once the animation is complete
     },prop)
 
